@@ -1,4 +1,3 @@
-# iec61850-mcp-server
 # IEC 61850 MCP Server
 
 > **Parse IEC 61850 substation configuration files and generate SEL RTAC projects and CODESYS PLC code using AI assistance**
